@@ -1,12 +1,12 @@
 # 🚀 Reto 3 — Un ETL a producción
 
-**Repositorio:** `sideproject-etl-produccion` · **Nivel:** avanzado · **Entorno:** Floci (S3, Step Functions, Lambda, SQS, Secrets Manager) + PostgreSQL · **Método y evaluación:** [`README.md`](docs/METODO.md)
+**Repositorio:** `NightBuilds-etl-produccion` · **Nivel:** avanzado · **Entorno:** Floci (S3, Step Functions, Lambda, SQS, Secrets Manager) + PostgreSQL · **Método y evaluación:** [`README.md`](docs/METODO.md)
 
 ## El caso
 
 Tienes un pipeline que funciona cuando tú lo ejecutas. Tu jefa te dice: «El lunes lo dejamos corriendo solo. Si falla a las tres de la mañana, quiero enterarme antes que el cliente, y que lo pueda arreglar quien esté de guardia aunque no seas tú». Eso es llevarlo a producción.
 
-No construyes un pipeline nuevo: partes de uno tuyo (por ejemplo `sideproject-pipeline-banco`) y lo vuelves **operable**.
+No construyes un pipeline nuevo: partes de uno tuyo (por ejemplo `NightBuilds-pipeline-banco`) y lo vuelves **operable**.
 
 ## Lo que debe existir al terminar
 
