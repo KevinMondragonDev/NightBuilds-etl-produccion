@@ -2,7 +2,18 @@
 
 > Un ETL convertido en algo desplegable y operable: infraestructura como código, CI/CD, alertas, permisos mínimos y runbook.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL llevado a producción · **Módulo del programa:** 08 · Capstone, reto 3
+**Estado:** 🚧 sin empezar · **Categoría:** NightBuilds · **Tipo:** ETL llevado a producción · **Módulo del programa:** 08 · Capstone, reto 3
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| `DevSandbox-` | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| **`NightBuilds-`** ← este | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **NightBuilds**: es un reto del capstone, un problema abierto que se trabaja en cinco entregas.
 
 ## La problemática
 
