@@ -2,7 +2,7 @@
 
 > Un ETL convertido en algo desplegable y operable: infraestructura como código, CI/CD, alertas, permisos mínimos y runbook.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL llevado a producción · **Módulo del programa:** 07 · Capstone, reto 3
+**Estado:** 🚧 sin empezar · **Tipo:** ETL llevado a producción · **Módulo del programa:** 08 · Capstone, reto 3
 
 ## La problemática
 
